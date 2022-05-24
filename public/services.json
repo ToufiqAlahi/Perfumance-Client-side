@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Light Blue",
+        "price": "$300.99",
+        "description": "Design duo Domenico Dolce and Stefano Gabbana are known for making stars look like stars. Their sexy styles are often to be seen on the likes of Isabella Rossellini, Demi Moore, Nicole Kidman, and Madonna.",
+        "supplier": "Dolce & Gabbana",
+        "quantity": 80,
+        "img": "https://i.ibb.co/NN6mFGs/1.jpg"
+    },
+    {
+        "name": "Bright Crystal",
+        "price": "$87.99",
+        "description": "Much like a beast of prey adorned with the most illustrious patterns and hues, or like Medusa herself, whose head is the company's logo, Versace has drawn its consumers in and not let them go.",
+        "supplier": "Versace",
+        "quantity": 234,
+        "img": "https://i.ibb.co/gR8mpcj/2.jpg"
+    },
+    {
+        "name": "Red Door",
+        "price": "$149.99",
+        "description": "Elizabeth Arden was both a woman ahead of her time and a true pioneer in the way she approached life, business, and the field of beauty. ",
+        "supplier": "Elizabeth Arden",
+        "quantity": 125,
+        "img": "https://i.ibb.co/FnKfvGg/3.jpg"
+    },
+    {
+        "name": "Sunflowers Perfume",
+        "price": "$179.99",
+        "description": "Elizabeth Arden was both a woman ahead of her time and a true pioneer in the way she approached life, business, and the field of beauty. ",
+        "supplier": "Elizabeth Arden",
+        "quantity": 723,
+        "img": "https://i.ibb.co/JBGr8kH/4.jpg"
+    },
+    {
+        "name": "Eau Fraiche Perfume",
+        "price": "$109.99",
+        "description": "Elizabeth Arden was both a woman ahead of her time and a true pioneer in the way she approached life, business, and the field of beauty. ",
+        "supplier": "Elizabeth Arden",
+        "quantity": 723,
+        "img": "https://i.ibb.co/wMB6fRF/5.jpg"
+    },
+    {
+        "name": "Reb'l Fleur Perfume",
+        "price": "299.99",
+        "description": "Rihanna is as much a fashion icon as she is a music icon. Her style ventures have disrupted industry standards, and she is always unapologetically herself. Rihanna’s perfume is as acclaimed as her multi-platinum records.",
+        "supplier": "Rihanna",
+        "quantity": 192,
+        "img": "https://i.ibb.co/HFjzTQv/6.jpg"
+    },
+    {
+        "name": "4711 Cologne",
+        "price": "148.99",
+        "description": "The fragrance is described as a refined fruity aroma intended to refresh the senses rather than leaving a strong perfume-filled trail. Opening this fragrance are citrus top notes of lemon, orange and grapefruit combined with bergamot. ",
+        "supplier": "4711",
+        "quantity": 82,
+        "img": "https://i.ibb.co/20JFF4B/7.jpg"
+    },
+    {
+        "name": "Perry Ellis 360 Perfume",
+        "price": "224.99",
+        "description": "Prior to founding his namesake brand, Perry Ellis studied business at the College of William and Mary, and his education would lead him into retail and to ultimately becoming a famous fashion designer and creator of products such as Perry Ellis fragrances. ",
+        "supplier": "Perry Ellis",
+        "quantity": 25,
+        "img": "https://i.ibb.co/JBkjb6F/8.jpg"
+    },
+    {
+        "name": "Tommy Girl Perfume",
+        "price": "300.99",
+        "description": "Tommy Girl Perfume by Tommy Hilfiger, Tommy Girl was one of the quintessential fragrances that gained the American fashion label more popularity and its iconic status.",
+        "supplier": "Tommy Hilfiger",
+        "quantity": 97,
+        "img": "https://i.ibb.co/pyqfxtz/9.jpg"
+    }
+]
