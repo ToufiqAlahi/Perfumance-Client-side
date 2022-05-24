@@ -1,0 +1,9 @@
+.comments{
+    margin: 150px auto;
+    width: 100%;
+    padding: 20px;
+    list-style: none;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #ccc;
+}
