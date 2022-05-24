@@ -13,7 +13,7 @@ const ServiceDetail = () => {
     }
 
     useEffect(() => {
-        const url = `http://localhost:5000/service/${serviceId}`;
+        const url = `https://enigmatic-savannah-26668.herokuapp.com/service/${serviceId}`;
         fetch(url)
             .then((res) => res.json())
             .then((data) => {
@@ -29,7 +29,7 @@ const ServiceDetail = () => {
         const updateItem = { quantity };
         console.log("updateItem", updateItem);
 
-        fetch(`http://localhost:5000/service/${serviceId}`, {
+        fetch(`https://enigmatic-savannah-26668.herokuapp.com/service/${serviceId}`, {
             method: "PUT",
             headers: {
                 "content-type": "application/json",
@@ -53,7 +53,7 @@ const ServiceDetail = () => {
         const updateItem = { quantity };
         console.log(updateItem);
 
-        fetch(`http://localhost:5000/service/${serviceId}`, {
+        fetch(`https://enigmatic-savannah-26668.herokuapp.com/service/${serviceId}`, {
             method: "PUT",
             headers: {
                 "content-type": "application/json",

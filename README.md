@@ -2,7 +2,7 @@
 
 This is an assignment of Programming Hero. The site is a Perfume inventory site. You can add, update, delete Perfumes from your inventory.
 
-Live Site Link [Click Here](https://assignment-11-4cc8b.web.app/).
+Live Site Link [Click Here](https://assignment-11-b1240.web.app/).
 
 ## Functionality
 
